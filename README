@@ -2,5 +2,6 @@
 Battleship Game created using Python
 
 Features of the game:
-- Guess the location of one or more battleships
+- Set your battlefield as you wish
+- Guess the location of one or more battleships, with different size
 - Play alone or with others
